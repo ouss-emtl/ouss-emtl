@@ -1,3 +1,6 @@
+
+All my projects were on my Gitlab (https://gitlab-student.centralesupelec.fr/2018elmtilo), I migrated everything on GitHub
+
 - 👋 Hi, I’m Oussama El m'tili
 - 👀 I’m interested in data and computer science
 - 🌱 I’m currently learning applied mathematics and data science at CentraleSupélec, member of Paris-Saclay university
@@ -9,5 +12,4 @@ ouss-emtl/ouss-emtl is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-All those projects were on my Gitlab, I migrated everything on GitHub
 
