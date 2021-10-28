@@ -7,3 +7,5 @@
 ouss-emtl/ouss-emtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Remark: I used to have everything on Gitlab from my school, I am migrating everything now
