@@ -33,14 +33,13 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br />
-<br>
 <br />
-<br>
- - 2 repo with java : hangman and Bycicle app.
- - 1 with C++ and Python : tweetoscope.
- - the other repo are in python.
- - Lot of ML projects from my curriculum are in the ML-Project repo
- - You will also find jupyter notebooks for purely machine learning / data science projects.
+
+- 2 repo with java : hangman and Bycicle app.
+- 1 with C++ and Python : tweetoscope.
+- the other repo are in python.
+- Lot of ML projects from my curriculum are in the ML-Project repo
+- You will also find jupyter notebooks for purely machine learning / data science projects.
 
 
 All my projects were on my Gitlab (https://gitlab-student.centralesupelec.fr/2018elmtilo), I migrated everything on GitHub
