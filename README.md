@@ -4,7 +4,7 @@ All my projects were on my Gitlab (https://gitlab-student.centralesupelec.fr/201
 - 👋 Hi, I’m Oussama El m'tili
 - 👀 I’m interested in data and computer science
 - 🌱 I’m currently learning applied mathematics and data science at CentraleSupélec, member of Paris-Saclay university
-- 📫 How to reach me : oussama.el-m-tili@student-cs.fr
+- 📫 How to reach me : oussama.el-m-tili@student-cs.fr | https://www.linkedin.com/in/oussama-el-m-tili/
 - I am looking for an end of study internship in data science
 
 <!---
@@ -19,5 +19,4 @@ I have :
  - 1 with C++ and Python : tweetoscope.
  - the other repo are in python.
  - Lot of ML projects from my curriculum are in the ML-Project repo
-
-You will also find jupyter notebooks for purely machine learning / data science projects.
+ - You will also find jupyter notebooks for purely machine learning / data science projects.
