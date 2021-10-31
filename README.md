@@ -12,7 +12,7 @@ ouss-emtl/ouss-emtl is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
 <br />
@@ -22,14 +22,19 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 <img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
+<br />
+
 ### Tools
 
-[<img align="left" alt="Docker" width="40px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />]
-[<img align="left" alt="Kafka" width="40px" src="https://blog.zenika.com/wp-content/uploads/2017/09/kafka-logo-title-1.png" />]
-[<img align="left" alt="Kubernetes" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png" />]
-[<img align="left" alt="Django" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />]
+<img align="left" alt="Docker" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+<img align="left" alt="Kafka" width="50px" src="https://blog.zenika.com/wp-content/uploads/2017/09/kafka-logo-title-1.png" />
+<img align="left" alt="Kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png" />
+<img align="left" alt="Django" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
 
 
+<br />
+<br />
+<br />
 
 I have :
  - 2 repo with java : hangman and Bycicle app.
