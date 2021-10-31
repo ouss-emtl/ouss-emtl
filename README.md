@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 Languages : Python, Java, C++.
 
 I have :
- - 2 projects with java : hangman and Bycicle app.
+ - 2 repo with java : hangman and Bycicle app.
  - 1 with C++ and Python : tweetoscope.
- - the rest are in python.
+ - the other repo are in python.
 
-You will also find jupyter notebook for purely machine learning / data science projects.
+You will also find jupyter notebooks for purely machine learning / data science projects.
