@@ -30,11 +30,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Kafka" width="50px" src="https://blog.zenika.com/wp-content/uploads/2017/09/kafka-logo-title-1.png" />
 <img align="left" alt="Kubernetes" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png" />
 <img align="left" alt="Django" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-
+<br />
 <br>
-
+<br />
+<br>
  - 2 repo with java : hangman and Bycicle app.
  - 1 with C++ and Python : tweetoscope.
  - the other repo are in python.
