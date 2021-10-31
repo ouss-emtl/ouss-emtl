@@ -18,5 +18,6 @@ I have :
  - 2 repo with java : hangman and Bycicle app.
  - 1 with C++ and Python : tweetoscope.
  - the other repo are in python.
+ - Lot of ML projects from my curriculum are in the ML-Project repo
 
 You will also find jupyter notebooks for purely machine learning / data science projects.
